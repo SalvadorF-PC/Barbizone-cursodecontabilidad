@@ -2,3 +2,8 @@
 	path = OCA/community-data-files
 	url = git@github.com:OCA/community-data-files.git
 	branch = 15.0
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 15.0
